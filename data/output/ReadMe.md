@@ -1,0 +1,1 @@
+A directory to store output data. Usually empty on VCS.

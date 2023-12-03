@@ -1,0 +1,1 @@
+A directory to store input data. Usually empty on VCS.
